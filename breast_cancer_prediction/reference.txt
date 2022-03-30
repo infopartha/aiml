@@ -1,0 +1,16 @@
+https://colab.research.google.com/github/gal-a/blog/blob/master/docs/notebooks/sklearn/sklearn_logistic_regression_vs_gbm.ipynb#scrollTo=ayp_TDIq6qJj
+
+https://github.com/PacktPublishing/Python-Feature-Engineering-Cookbook
+
+https://github.com/PacktPublishing/Hands-On-Ensemble-Learning-with-Python/tree/master/Chapter01
+
+https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
+
+https://medium.com/data-science-ai-and-machine-learning-for-dummies/breast-cancer-detection-logistic-regression-example-in-python-8b9218470a28
+
+https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
+
+https://www.analyticsvidhya.com/blog/2021/12/application-of-tree-based-models-for-healthcare-analysis/
+
+https://towardsdatascience.com/feature-engineering-techniques-in-python-97977ecaf6c8
+
